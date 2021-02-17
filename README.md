@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+I want to know about Node.js TypeScript and more.
+
+My finger　hurts.
